@@ -28,34 +28,38 @@ The dataset is highly imbalanced, with the majority of images belonging to the '
 
 ## Optimization
 
-
 ## Results
 
-### Model Performance
+### Overall Model Performance
 
 | Model | Accuracy | Macro Avg F1-Score | Weighted Avg F1-Score |
 |-------|----------|-------------------|----------------------|
-| Random Forest   | _____    | _____             | _____                |
-| CNN | _____ | _____ | _____ |
+| CNN   | _____    | _____             | _____                |
+| Random Forest | _____ | _____ | _____ |
 
-### Per-class Performance (F1 Score)
+### Per-class Performance Metrics - Random Forest
 
-| Class | CNN | Random Forest |
-|-------|-----|--------------|
-| akiec | ___ | ___ |
-| bcc   | ___ | ___ |
-| bkl   | ___ | ___ |
-| df    | ___ | ___ |
-| mel   | ___ | ___ |
-| nv    | ___ | ___ |
-| vasc  | ___ | ___ |
+| Class | Count in Dataset | Recall | F1-Score | Precision |
+|-------|-----------|--------|----------|---------|
+| akiec | _____ | _____ | _____ | _____ |
+| bcc   | _____ | _____ | _____ | _____ |
+| bkl   | _____ | _____ | _____ | _____ |
+| df    | _____ | _____ | _____ | _____ |
+| mel   | _____ | _____ | _____ | _____ |
+| nv    | _____ | _____ | _____ | _____ |
+| vasc  | _____ | _____ | _____ | _____ |
 
-### Training Time Comparison
+### Per-class Performance Metrics - CNN
 
-| Model | Training Time (seconds) |
-|-------|-----------------------|
-| Random Forest   | _____ |
-| CNN | _____ |
+| Class | Count in Dataset | Recall | F1-Score | Precision |
+|-------|-----------|--------|----------|---------|
+| akiec | _____ | _____ | _____ | _____ |
+| bcc   | _____ | _____ | _____ | _____ |
+| bkl   | _____ | _____ | _____ | _____ |
+| df    | _____ | _____ | _____ | _____ |
+| mel   | _____ | _____ | _____ | _____ |
+| nv    | _____ | _____ | _____ | _____ |
+| vasc  | _____ | _____ | _____ | _____ |
 
 ## Discussion
 
