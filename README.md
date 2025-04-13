@@ -26,7 +26,7 @@ The dataset is highly imbalanced, with the majority of images belonging to the '
 ### Convolutional Neural Network (CNN)
 
 
-
+## Optimization
 
 
 ## Results
