@@ -8,7 +8,8 @@ Skin cancer is one of the most common forms of cancer in the world, and early de
 
 ## Dataset
 
-The dataset used in this project is the HAM10000 datasete which consists of over 10,000 dermatoscopic images of pigmented skin lesions of the following types:
+The [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
+ used in this project is the HAM10000 datasete which consists of over 10,000 dermatoscopic images of pigmented skin lesions of the following types:
 
 | Class | Description | Count |
 |-------|-------------|-------|
