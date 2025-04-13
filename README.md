@@ -34,13 +34,13 @@ The dataset is highly imbalanced, with the majority of images belonging to the '
 
 | Model | Accuracy | Macro Avg F1-Score | Weighted Avg F1-Score |
 |-------|----------|-------------------|----------------------|
-| CNN   | _____    | _____             | _____                |
 | Random Forest | _____ | _____ | _____ |
+| CNN   | _____    | _____             | _____                |
 
 ### Per-class Performance Metrics - Random Forest
 
-| Class | Count in Dataset | Recall | F1-Score | Precision |
-|-------|-----------|--------|----------|---------|
+| Class | Count in Dataset | Precision | Recall | F1-Score |
+|-------|-----------------|-----------|--------|----------|
 | akiec | _____ | _____ | _____ | _____ |
 | bcc   | _____ | _____ | _____ | _____ |
 | bkl   | _____ | _____ | _____ | _____ |
@@ -51,8 +51,8 @@ The dataset is highly imbalanced, with the majority of images belonging to the '
 
 ### Per-class Performance Metrics - CNN
 
-| Class | Count in Dataset | Recall | F1-Score | Precision |
-|-------|-----------|--------|----------|---------|
+| Class | Count in Dataset | Precision | Recall | F1-Score |
+|-------|-----------------|-----------|--------|----------|
 | akiec | _____ | _____ | _____ | _____ |
 | bcc   | _____ | _____ | _____ | _____ |
 | bkl   | _____ | _____ | _____ | _____ |
