@@ -60,7 +60,7 @@ The network gradually increases feature map depth (64→128→256) while reducin
 
 ## Results
 
-### Overall Model Performance
+### MOdel Performance Summary
 
 | Model | Accuracy | Macro Avg F1-Score | Weighted Avg F1-Score |
 |-------|----------|-------------------|----------------------|
