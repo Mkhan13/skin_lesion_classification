@@ -104,3 +104,5 @@ CNN significantly outperforms Random Forest across all metrics. It achieves 76.6
 
 ## Conclusion
 CNN is the better model for classification of pigmented skin lesions besed on the results from this dataset. It has a 53% gain in F1 and a 9.6% gain in accuracy compared to non deep learning models. IN addition, Random Forest is not suitable for imbalanced image classification tasks without additional feature engineering or resampling techniques because it heavily relies on having balanced features.
+
+### Video presentation [here](https://drive.google.com/file/d/1ecDTnmhxfEeCGH5ZFPrwJl1aBTQ1Uj9h/view?usp=sharing)
